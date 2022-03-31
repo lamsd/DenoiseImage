@@ -7,6 +7,6 @@ pathmodel = "models/my_models.h5"
 pathimage = "output_test\\data2.png"
 
 # Training data
-epochs=2
+epochs=600
 batch_size=3
 verbose=1
